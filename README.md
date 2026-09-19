@@ -28,7 +28,7 @@ Run in this order:
 - [2020 Census Tracts Shapefile from NYC Department of City Planning](https://www.nyc.gov/content/planning/pages/resources/datasets/census-tracts)
 - [2020 Neighborhood Tabulation Areas (NTAs) Shapefile from NYC Department of City Planning](https://www.nyc.gov/content/planning/pages/resources/datasets/neighborhood-tabulation)
 - [2020 Community Districts Shapefile from NYC Department of City Planning](https://www.nyc.gov/content/planning/pages/resources/datasets/community-districts)
-- [1982-2020 30 year nominal climate data from PRISM](https://prism.oregonstate.edu/normals/)
+- [1982-2020 30-year nominal climate data from PRISM](https://prism.oregonstate.edu/normals/)
 - [2020 NYC Social Vulnerability from CDC/ATSDR Social Vulnerability Index](https://www.atsdr.cdc.gov/place-health/php/svi/svi-data-documentation-download.html?CDC_AAref_Val=https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html)
 - [Historical Redlining dating 1970s from NYC GOV](https://a816-dohbesp.nyc.gov/IndicatorPublic/data-stories/redlining/)
 - [Urban Building design from NYC Department of City Planning](https://data.cityofnewyork.us/City-Government/BUILDING/3g6p-4u5s)
